@@ -1,0 +1,17 @@
+At Analystbot, we aim at 'eliminating' and transforming the role of financial analyst by automating tasks through natural language prompts.
+
+This demo provides a glimpse into what we are building:
+https://www.youtube.com/watch?v=Glb96L8gAfw
+
+The following demo demonstrates a retail use case where the user can query the mutual fund universe:
+https://www.youtube.com/watch?v=sHYqR8jTmLM
+
+Our current tech stack is:
+- Huggingface transformers for NLP
+- Refinitiv Eikon for the financial data
+- AMFI for the MF data
+- Streamlit for the front-end
+
+The folder Finance use cases has a few code snippets that carry out different finance-related tasks and are used by us in our day-to-day.
+
+Recent advances in AI and NLP have made this vision achieveable and a partnership with OpenAI will really help us on our journey.
